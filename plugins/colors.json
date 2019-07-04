@@ -1,0 +1,17 @@
+{
+  "background": "rgb(255, 255, 255)",
+  "text": "rgb(0, 0, 0)",
+  "description": "rgb(128, 128, 128)",
+  "statusbar": {
+    "background": "rgb(245, 245, 245)",
+    "content": "dark-content"
+  },
+  "tabbar": {
+    "active": "rgb(0, 0, 0)",
+    "inactive": "rgb(200, 200, 200)"
+  },
+  "card": {
+    "border": "rgb(230, 230, 230)"
+  },
+  "avatar": "rgb(240, 240, 240)"
+}
