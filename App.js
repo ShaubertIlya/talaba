@@ -7,8 +7,6 @@
 // TODO Разобраться что это за бред
 require('./plugins/symbol');
 require('./plugins/firebase');
-//TODO REMOVE THIS!
-import Init from "./src/navigator/Init";
 
 import Navigator from "./src/navigator";
 
@@ -20,7 +18,6 @@ import {
 } from 'react-native';
 
 import i18n from './plugins/i18n';
-import colors from './plugins/colors';
 
 //TODO make this class as short as possible
 export default class Class extends Component {
